@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ikansh!</h1>
-<h3 align="center">An aspiring Physicist and ML scientist</h3>
+<h1 align="center">Hello 👋! I'm Ikansh a.k.a IkaBrain!</h1>
+<h3 align="center">An aspiring Physicist and Data Scientist!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikabrain&label=Profile%20views&color=0e75b6&style=flat" alt="ikabrain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikabrain" alt="ikabrain" /></a> </p>
 
-- 🔭 I’m currently learning **Quantum Physics in my free time**
+- 🔭 I’m currently learning **ML**
 
-- 👯 I’m looking to collaborate to **learn ML together**
+- 👯 I’m looking to collaborate to **learn ML and Physics** together
 
-- 🤝 I’m looking for help with **my career**
+- 🤝 I’m looking for help and guidance with **my career**
 
-- 📫 How to reach me **imahajan_be23@thapar.edu**
+- 📫 How to reach me? Mail at **imahajan_be23@thapar.edu**
 
-- ⚡ Fun fact **I have an unhealthy obsession with cats.**
+- 🤫 Fun fact - **I have an unhealthy obsession with cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
